@@ -168,9 +168,9 @@ void Help(void) {
 		case 13:
 			printf("\n***********************************************************\n"
 				"About the author:\n"
-				"Author: Weitian Chen			Nanjing University\n"
-				"Email: weitian.chen@qq.com		Feel free to contact if there's any problem.\n\n"
-				"Description: School work for fundamental of programming\n"
+				"Author:\n"
+				"Email:\n"
+				"Description:\n"
 				"Date: May 3rd, 2021\n"
 				"Last Update: July 11th, 2021\n"
 				"All right reserved.\n");
